@@ -1,4 +1,6 @@
-the open source tool repmgr (Replication Manager) and how to set up and configure it for automatic failover in PostgreSQL.
+https://blog.neptune-ubi.com/postgres-replication-and-high-availability/
+
+https://blog.neptune-ubi.com/postgres-replication-and-high-availability/the open source tool repmgr (Replication Manager) and how to set up and configure it for automatic failover in PostgreSQL.
 
 Install PostgreSQL
 Install repmgr
